@@ -1,0 +1,17 @@
+[
+    {
+        "provincia":"Buenos Aires",
+        "cod":"Bs As",
+        "pais": "1"
+    },
+    {
+        "provincia":"Santa Fe",
+        "cod":"S fe",
+        "pais": "1"
+    },
+    {
+        "provincia":"Cordoba",
+        "cod":"Cba",
+        "pais": "1"
+    }
+]
